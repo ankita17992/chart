@@ -1,3 +1,4 @@
+![Screen Shot 2021-06-04 at 12 29 29 AM](https://user-images.githubusercontent.com/7392065/120756087-0ddea680-c4cc-11eb-8d2a-66f1468917b1.png)
 # Simple Bar Chart 
 
 this will display simple bar chart of student academic record.the script purely writeen only in vanilla javascript,HTML and CSS. 
